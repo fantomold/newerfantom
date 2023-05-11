@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bbee90d.chunk.css",
+    "main.js": "/static/js/main.a93f13dd.chunk.js",
+    "main.js.map": "/static/js/main.a93f13dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.78335825.js",
+    "runtime-main.js.map": "/static/js/runtime-main.78335825.js.map",
+    "static/js/2.ff53e2ca.chunk.js": "/static/js/2.ff53e2ca.chunk.js",
+    "static/js/2.ff53e2ca.chunk.js.map": "/static/js/2.ff53e2ca.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1bbee90d.chunk.css.map": "/static/css/main.1bbee90d.chunk.css.map",
+    "static/js/2.ff53e2ca.chunk.js.LICENSE.txt": "/static/js/2.ff53e2ca.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Proxima.7bc9ce40.otf",
+    "static/media/logo.dc7810b4.svg": "/static/media/logo.dc7810b4.svg",
+    "static/media/materialdesignicons.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78335825.js",
+    "static/js/2.ff53e2ca.chunk.js",
+    "static/css/main.1bbee90d.chunk.css",
+    "static/js/main.a93f13dd.chunk.js"
+  ]
+}
